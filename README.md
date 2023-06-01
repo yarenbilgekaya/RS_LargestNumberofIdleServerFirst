@@ -2,7 +2,7 @@
 
 This repository includes all the python codes related to Largest Number of Idle Servers First (LNISF) strategy used in "Queue Routing Strategies to Improve Equitable Housing Coordination in New York City" paper.
 
-The paper compares various routing strategies to improve equitable access to New York City runaway and homeless youth (RHY) shelter system. Each of these strategies are simulated using different codes and are given in seperate repositories. Outputs of the simulations are written to their own associated excel files (to have back ups, wink). Then, with other scripts called "Tests" and "Outputs" we analyze the performance (wait times, utilization, queue length, etc.), do the statistical tests and present our findings.
+The paper compares various routing strategies to improve equitable access to New York City runaway and homeless youth (RHY) shelter system. Each of these strategies are simulated using different codes and are given in seperate repositories. Outputs of the simulations are written to their own associated excel files (to have back ups, wink). Then, with another script called "Outputs" we analyze the performance (wait times, utilization, queue length, etc.), do the statistical tests and present our findings.
 
 Author: Yaren Bilge Kaya, PhD Candiate at Northeastern University's Industrial Engineering Department <br>
 Adviser: Dr. Kayse Lee Maass  <br>
